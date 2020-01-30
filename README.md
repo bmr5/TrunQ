@@ -7,7 +7,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/oslabs-beta/TrunQ/issues)
 
 # TrunQ
-TrunQ is an open-source NPM package developed by OS-labs providing an easy and intuitive implementation for caching GraphQL responses on the client and/or server side storage.
+TrunQ is an open-source NPM package developed by OS-labs providing an easy and intuitive implementation for caching GraphQL responses on the client and/or server side.
 
 Developed by Ben Ray, Brian Haller, Gordon Campbell, and Michael Evans.
 
